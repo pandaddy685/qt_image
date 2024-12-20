@@ -1,2 +1,5 @@
-# qt_image
-![image](https://github.com/user-attachments/assets/402ebbf3-a683-46bf-a92e-6a4ccd371d25)
+# ImageProcessor
+
+## 執行結果
+
+![示例图片](./test.png)
